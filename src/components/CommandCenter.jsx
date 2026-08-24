@@ -3,10 +3,10 @@ import { motion } from 'framer-motion';
 
 const CommandCenter = () => {
   const socialLinks = [
-    { name: 'GitHub', url: 'https://github.com/AkshatRana09', icon: '⚡' },
-    { name: 'LinkedIn', url: 'https://linkedin.com/in/akshat09rana/', icon: '🔗' },
-    { name: 'Instagram', url: 'https://www.instagram.com/papeeetaa/', icon: '🐦' },
-    { name: 'Mail', url: 'mailto:ranakshat2005@gmail.com', icon: '✉️' }
+    { name: 'GitHub', url: 'https://github.com/priyanshu-thakur1885', icon: '⚡' },
+    { name: 'LinkedIn', url: 'https://www.linkedin.com/in/priyanshu-thakur-71a4652aa/', icon: '🔗' },
+    { name: 'Instagram', url: 'https://www.instagram.com/_.pr1yanshuu._/', icon: '🐦' },
+    { name: 'Mail', url: 'mailto:fun2begin8988@gmail.com', icon: '✉️' }
   ];
 
   return (
@@ -51,7 +51,7 @@ const CommandCenter = () => {
       <div className="resume-section">
         <motion.a
           href="/general CV.pdf"
-          download="Akshat_Rana_CV.pdf"
+          download="Priyanshu_Thakur_CV.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="resume-download-btn"

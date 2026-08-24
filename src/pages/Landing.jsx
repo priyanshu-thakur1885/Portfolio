@@ -52,8 +52,8 @@ const Landing = () => {
               </motion.div>
 
               <motion.h1 variants={itemVariants} className="hero-title">
-                AKSHAT <br />
-                RANA
+                PRIYANSHU <br />
+                THAKUR
               </motion.h1>
 
               <motion.h2 variants={itemVariants} className="hero-subtitle">
@@ -84,7 +84,7 @@ const Landing = () => {
                 variants={itemVariants}
                 whileHover={{ scale: 1.02, rotate: 1 }}
               >
-                <img src="/PORTFOLIO_img.jpeg" alt="Akshat Rana" className="hero-profile-img" />
+                <img src="/PORTFOLIO_img.jpeg" alt="Priyanshu Thakur" className="hero-profile-img" />
                 <div className="caption-box">DEVELOPER / ARCHITECT</div>
               </motion.div>
             </div>

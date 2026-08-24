@@ -36,6 +36,7 @@ const Skills = () => {
           </div>
           <ul className="skill-list-comic">
             <li>NODE.JS</li>
+            <li>DJANGO</li>
             <li>EXPRESS.JS</li>
             <li>REST APIS</li>
           </ul>
@@ -50,6 +51,7 @@ const Skills = () => {
           <ul className="skill-list-comic">
             <li>MYSQL</li>
             <li>MONGODB</li>
+            <li>PostgreSQL</li>
           </ul>
         </div>
 
@@ -63,6 +65,7 @@ const Skills = () => {
             <li>GIT & GITHUB</li>
             <li>POSTMAN</li>
             <li>FIGMA</li>
+            <li>RENDER</li>
             <li>VERCEL & NETLIFY</li>
           </ul>
         </div>

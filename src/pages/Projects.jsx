@@ -7,42 +7,27 @@ const Projects = () => {
 
   const projects = [
     {
-      title: "Code Grimoire",
-      date: "Jul 25 - Aug 25",
-      tech: "HTML, CSS, JavaScript, React.js, Node.js, Tailwind",
-      description: "Themed Code Snippet Manager.",
+      title: "Expense Tracker",
+      date: "Jan 2026 - Mar 2026",
+      tech: "HTML, React.js, Node.js, Express, MongoDB, Tailwind, OAuth",
+      description: "Personal finance management app.",
       details: [
-        "Implemented tag-based search functionality within the code snippet web application: decreased code search time by 60% and increased developer satisfaction scores by 25%.",
-        "Pioneered JWT-based authentication protocols, fortified application security, and minimized potential brute-force login attempts by 40%, safeguarding user code snippets and data integrity.",
-        "Prototype tested with 20+ users, improved snippet discovery speed during tests."
+        "Built a full-stack expense tracking application using React.js, Node.js, Express.js, and MongoDB to manage, categorize, and visualize daily financial data. ",
+        "Implemented secure authentication and authorization using JWT and developed interactive dashboards with Chart.js to provide real-time spending insights.",
+        "Optimized RESTful APIs and CRUD operations while integrating advanced filtering and category-based analysis, improving performance and driving 100+ monthly user interactions"
       ],
-      github: "https://github.com/AkshatRana09",
-      demo: "#"
+      github: "https://github.com/priyanshu-thakur1885/Expense-Tracker",
+      demo: "https://expense-tracker-0ipq.onrender.com/"
     },
     {
-      title: "CookieRookie",
-      date: "Jul 25 - Aug 25",
-      tech: "HTML, CSS, JavaScript, PHP, MySQL",
-      description: "Interactive Recipe Sharing Website.",
+      title: "TravelMate",
+      date: "Oct 2025 - Nov 2026",
+      tech: "HTML, CSS, React.js, Node.js, MongoDB",
+      description: "Travel Management Platform.",
       details: [
-        "Designed intuitive user interfaces for recipe browsing, uploading, and rating, using Figma and incorporating user feedback from 50+ beta testers to improve user satisfaction scores.",
-        "Engineered a robust JWT authentication system integrated with a MongoDB backend, enabling secure user management for 5,000+ active users, while streamlining access to recipes, favorites, and user comments.",
-        "Revolutionized recipe discovery through ingredient and cuisine filters; enhanced search functionality by 70%, becoming the platform's second most used feature, according to user feedback and engagement metrics."
+        "Travel Management Platform."
       ],
-      github: "https://github.com/AkshatRana09",
-      demo: "#"
-    },
-    {
-      title: "Expensse",
-      date: "Jul 25 - Aug 25",
-      tech: "React Native (Expo), Node.js, Express.js, MongoDB, Clerk Authentication",
-      description: "Personal Finance Management App.",
-      details: [
-        "Created a cross-platform wallet app for tracking daily expenses, income, and spending trends.",
-        "Architected secure user authentication flow using Clerk, enabling seamless integration with existing Node.js and Express.js backend systems; system now supports 50+ daily active users.",
-        "Pioneered a React Native (Expo) mobile interface providing real-time, category-based spending summaries; interface is now utilized by over 30 daily active users."
-      ],
-      github: "https://github.com/AkshatRana09",
+      github: "https://github.com/priyanshu-thakur1885/Travel-Mate",
       demo: "#"
     }
   ];

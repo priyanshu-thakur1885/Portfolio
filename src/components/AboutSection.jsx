@@ -13,7 +13,7 @@ const AboutSection = () => {
             <div className="sfx-text" style={{ top: '-20px', left: '-10px', transform: 'rotate(-10deg)' }}>BOOM!</div>
             <h3 className="panel-title">WHO AM I?</h3>
             <div className="speech-bubble">
-              HELLO! I’M AKSHAT RANA — A RESULTS-DRIVEN SOFTWARE ENGINEER BUILDING SCALABLE, HIGH-PERFORMANCE, AND RELIABLE DIGITAL SYSTEMS.
+              HELLO! I’M PRIYANSHU THAKUR — A RESULTS-DRIVEN SOFTWARE ENGINEER BUILDING SCALABLE, HIGH-PERFORMANCE, AND RELIABLE DIGITAL SYSTEMS.
             </div>
             <p className="panel-text">
               I design, build, and optimize end-to-end applications, combining full-stack development, software testing, and Android engineering to deliver robust, production-ready solutions.

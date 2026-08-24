@@ -18,12 +18,14 @@ const Education = () => {
           <p className="edu-uni-comic">LOVELY PROFESSIONAL UNIVERSITY, PUNJAB</p>
           <div className="edu-footer-comic">
             <span className="edu-date-comic">AUG 2023 - PRESENT</span>
-            <span className="edu-status-comic">CGPA: 7.5</span>
+            <span className="edu-status-comic">CGPA: 6.9</span>
           </div>
           <div className="edu-subjects-comic">
+            <span>FULL STACK WEB DEVELOPMENT</span>
             <span>DATA STRUCTURES & ALGORITHMS</span>
             <span>OPERATING SYSTEMS</span>
             <span>DBMS</span>
+            <span>NETWORKING</span>
           </div>
         </div>
 
@@ -31,10 +33,10 @@ const Education = () => {
         <div className="manga-panel edu-card-comic inter-panel">
           <div className="panel-label-comic">SCHOOL_NODE_A</div>
           <h3 className="edu-degree-comic">INTERMEDIATE (CLASS 12TH)</h3>
-          <p className="edu-uni-comic">BD DAV PUBLIC SCHOOL, DHARAMSHALA</p>
+          <p className="edu-uni-comic">Aadharshila Sr Sec School, Palampur</p>
           <div className="edu-footer-comic">
             <span className="edu-date-comic">APR 2022 - MAR 2023</span>
-            <span className="edu-status-comic">73.1%</span>
+            <span className="edu-status-comic">74.6%</span>
           </div>
           <div className="edu-subjects-comic">
             <span>PHYSICS</span>
@@ -47,10 +49,10 @@ const Education = () => {
         <div className="manga-panel edu-card-comic matric-panel">
           <div className="panel-label-comic">SCHOOL_NODE_B</div>
           <h3 className="edu-degree-comic">MATRICULATION (CLASS 10TH)</h3>
-          <p className="edu-uni-comic">BD DAV PUBLIC SCHOOL, DHARAMSHALA</p>
+          <p className="edu-uni-comic">Aadharshila Sr Sec School, Palampur</p>
           <div className="edu-footer-comic">
             <span className="edu-date-comic">APR 2020 - MAR 2021</span>
-            <span className="edu-status-comic">87.6%</span>
+            <span className="edu-status-comic">88.2%</span>
           </div>
           <div className="edu-subjects-comic">
             <span>SCIENCE</span>

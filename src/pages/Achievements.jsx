@@ -5,29 +5,23 @@ const Achievements = () => {
       issuer: "NPTEL",
       issued: "APR 2025",
       logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVtVfByN7kOqYqP3Z6Lh6s5M7o4_8M9_O3-A&s",
-      link: "https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS11S153730236504247637"
+      link: "https://drive.google.com/file/d/1_3Z0u4RbJ7xqJWuBxTVBkyIcbA76RVvT/view?usp=sharing"
     },
     {
-      title: "SOFTWARE ENGINEERING JOB SIMULATION",
-      issuer: "FORAGE",
-      issued: "FEB 2025",
+      title: "LIVE INTERNSHIP WITH TECHVANTO ACADEMY ",
+      issuer: "TECHVANTO ACADEMY",
+      issued: "JULY 2025",
       logo: "https://images.squarespace-cdn.com/content/v1/60ec2772591a3c613cbf2c8f/c9fd7b28-1175-4927-b50a-bf41fe48aa33/Forage+Logo+-+White+on+black+%281%29.png",
-      link: "https://www.theforage.com/completion-certificates/j43dGscQHtJJ57N54/a77WE3de8qrxWferQ_j43dGscQHtJJ57N54_7RwSmd72WHGEDJ3P9_1738876255652_completion_certificate.pdf"
+      link: "https://drive.google.com/file/d/1ywkZ62msm4_4lam_APTQ3Khkp96fX2JD/view"
     },
     {
-      title: "MONGODB SKILL BADGES (14 BADGES)",
-      issuer: "CREDLY",
+      title: "MASTER GENERATIVE AI AND GENERATIVE AI TOOLS",
+      issuer: "INFOSYS",
       issued: "JUL 2025",
       logo: "https://images.credly.com/images/ae2fddb5-31ce-4d57-8ff7-6ba012a68875/credly_logo.png",
-      link: "https://www.credly.com/users/akshat-rana.37627b2b#credly"
+      link: "https://drive.google.com/file/d/1ZegRoDrIZKBrR8c4H7-FYgyWrsvsi6ze/view"
     },
-    {
-      title: "COMPUTER COMMUNICATIONS",
-      issuer: "COURSERA",
-      issued: "NOV 2024",
-      logo: "https://upload.wikimedia.org/wikipedia/commons/9/91/Coursera_logo.svg",
-      link: "https://www.coursera.org/account/accomplishments/specialization/certificate/3ZXOWEFTNV9T"
-    }
+
   ];
 
   return (

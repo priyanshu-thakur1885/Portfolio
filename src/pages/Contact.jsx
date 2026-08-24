@@ -14,7 +14,7 @@ const Contact = () => {
     setStatus("SENDING");
 
     try {
-      const response = await fetch("https://formsubmit.co/ajax/ranakshat2005@gmail.com", {
+      const response = await fetch("https://formsubmit.co/ajax/fun2begin8988@gmail.com", {
         method: "POST",
         headers: { 
           "Content-Type": "application/json",
@@ -80,7 +80,7 @@ const Contact = () => {
                     required
                     value={formData.name}
                     onChange={handleChange}
-                    placeholder="AKSHAT RANA" 
+                    placeholder="PRIYANSHU THAKUR" 
                   />
                 </div>
                 <div className="comic-input-group">
@@ -118,14 +118,14 @@ const Contact = () => {
             <div className="manga-panel comic-link-panel">
               <div className="panel-label-comic">DIRECT_LINKS</div>
               <div className="comic-links-stack">
-                <a href="mailto:ranakshat2005@gmail.com" className="comic-link-item">
-                  <Mail size={24} /> RANAKSHAT2005@GMAIL.COM
+                <a href="mailto:fun2begin8988@gmail.com" className="comic-link-item">
+                  <Mail size={24} /> FUN2BEGIN8988@GMAIL.COM
                 </a>
-                <a href="https://github.com/AkshatRana09" target="_blank" rel="noopener noreferrer" className="comic-link-item">
-                  <Github size={24} /> GITHUB.COM/AKSHATRANA09
+                <a href="https://github.com/priyanshu-thakur1885" target="_blank" rel="noopener noreferrer" className="comic-link-item">
+                  <Github size={24} /> GITHUB.COM/PRIYANSHU-THAKUR1885
                 </a>
-                <a href="https://www.linkedin.com/in/akshat09rana/" target="_blank" rel="noopener noreferrer" className="comic-link-item">
-                  <Linkedin size={24} /> LINKEDIN.COM/IN/AKSHAT09RANA
+                <a href="https://www.linkedin.com/in/priyanshu-thakur-71a4652aa/" target="_blank" rel="noopener noreferrer" className="comic-link-item">
+                  <Linkedin size={24} /> LINKEDIN.COM/IN/PRIYANSHU-THAKUR-71A4652AA
                 </a>
               </div>
             </div>

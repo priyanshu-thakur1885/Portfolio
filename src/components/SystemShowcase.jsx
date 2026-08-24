@@ -23,6 +23,7 @@ const SystemShowcase = () => {
         { name: "JAVASCRIPT", icon: "JS" },
         { name: "TYPESCRIPT", icon: "TS" },
         { name: "HTML/CSS", icon: "🌐" },
+        { name: "DJANGO", icon: "DJ" },
         { name: "DSA", icon: "🧠" },
         { name: "SQL", icon: "🗄️" }
       ]
@@ -49,6 +50,7 @@ const SystemShowcase = () => {
         { name: "MAVEN", icon: "羽" },
         { name: "VS CODE", icon: "💻" },
         { name: "ECLIPSE", icon: "🌑" },
+        { name: "RENDER", icon: "RE" },
         { name: "LINUX", icon: "🐧" }
       ]
     }

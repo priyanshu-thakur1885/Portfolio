@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="navbar-comic">
       <div className="nav-container">
         <div className="logo-comic">
-          <Link to="/">AKSHAT RANA</Link>
+          <Link to="/">PRIYANSHU THAKUR</Link>
         </div>
         
         <ul className="nav-links-comic">

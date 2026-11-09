@@ -6,7 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I'm a Computer Science Engineering student and Full-Stack Developer passionate about building scalable, efficient, and intelligent software solutions.
+          I'm a Computer Science Engineering student and Full-Stack Web Developer passionate about building scalable, efficient, and intelligent software solutions.
 
 I enjoy working across the development stack, from designing interactive user interfaces to developing robust backend systems and integrating AI-powered capabilities. My experience includes working with Java, Spring Boot, Python, Django, React, Node.js, and databases such as MySQL and MongoDB.
 

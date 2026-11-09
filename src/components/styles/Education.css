@@ -1,0 +1,118 @@
+.education-section {
+  position: relative;
+  z-index: 1;
+  background-color: var(--backgroundColor);
+  padding: 80px 0;
+  border-bottom: 1px solid #363636;
+}
+
+.education-container {
+  margin: auto;
+}
+
+.education-section h2 {
+  font-size: 60px;
+  font-weight: 700;
+  text-align: center;
+  margin: 0 0 50px 0;
+  background: linear-gradient(0deg, #0d9488, #ffffff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+/* ── Card Grid ── */
+.education-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* ── Card ── */
+.education-card {
+  background: rgba(16, 24, 39, 0.4); /* Dark blueish background similar to image */
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 8px;
+  padding: 24px 30px;
+  display: flex;
+  flex-direction: column;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.education-card:hover {
+  border-color: rgba(94, 234, 212, 0.3);
+  box-shadow: 0 0 15px rgba(94, 234, 212, 0.05);
+}
+
+.education-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.education-card-header h3 {
+  font-size: 22px;
+  font-weight: 600;
+  color: #1d917f; /* Teal accent for school name */
+  margin: 0;
+}
+
+.education-date {
+  font-size: 14px;
+  background: rgba(168, 85, 247, 0.1); /* purple-ish background for date */
+  color: #c084fc; /* purple font for date */
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+.education-location {
+  font-size: 14px;
+  color: #9ca3af;
+  margin: 0 0 16px 0;
+}
+
+.education-degree {
+  font-size: 16px;
+  font-weight: 500;
+  color: #e5e7eb;
+  margin: 0 0 6px 0;
+}
+
+.education-score {
+  font-size: 14px;
+  color: #d1d5db;
+  margin: 0;
+}
+
+/* ── Responsive ── */
+@media only screen and (max-width: 900px) {
+  .education-section h2 {
+    font-size: 40px;
+  }
+
+  .education-card {
+    padding: 20px;
+  }
+
+  .education-card-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    margin-bottom: 4px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .education-section h2 {
+    font-size: 32px;
+  }
+
+  .education-card-header h3 {
+    font-size: 18px;
+  }
+}
